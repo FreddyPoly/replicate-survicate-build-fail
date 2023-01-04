@@ -24,6 +24,11 @@
 	<string>1</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>Survicate</key>
+	<dict>
+		<key>WorkspaceKey</key>
+		<string>YOUR_WORKSPACE_KEY</string>
+	</dict>
 	<key>NSAppTransportSecurity</key>
 	<dict>
 		<key>NSExceptionDomains</key>
